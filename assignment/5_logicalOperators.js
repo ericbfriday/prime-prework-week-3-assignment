@@ -28,3 +28,6 @@ function opposite(booleanValue) {
 
 // test your function opposite by calling it below and logging the result
 opposite(true);
+opposite(false);
+opposite(NaN);
+opposite(undefined);

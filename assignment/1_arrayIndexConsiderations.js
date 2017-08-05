@@ -1,3 +1,4 @@
+
 // remember! array indices start at 0
 
 var colors = ['red', 'blue', 'yellow'];
@@ -26,3 +27,21 @@ console.log(lastItem(colors));
 //Testing script below
 //var letters = ['p', 'r', 'i', 'm', 'e'];
 //console.log(lastItem(letters));
+
+/**
+// Shara below.
+
+var fortyThirdColor = [43];
+
+function lastItem( lastItemArray ) {
+  // this function accepts an array (lastItemArray) as an argument
+  // have it return the last item in the array
+  var array= ['shara', 'austin', 'travel'];
+  return [array.length-1];
+}
+
+// test your function lastItem by calling it below and logging the result
+// for ex. console.log(lastItem(colors));
+// console.log(lastItem()):
+
+*/
